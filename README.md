@@ -1,5 +1,3 @@
-### ✅ Suggested `README.md` for Your Project
-
 # 🤖 AI-Medical-ChatBot
 
 An AI-powered Medical ChatBot designed to assist users with reliable, informative responses based on medical literature. This project uses advanced Natural Language Processing (NLP) techniques and integrates RAG (Retrieval-Augmented Generation) pipelines to provide contextually accurate answers.
